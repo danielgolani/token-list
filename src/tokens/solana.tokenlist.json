@@ -25045,7 +25045,22 @@
         "discord": "https://discord.gg/gXymhAfceY",
         "twitter": "https://twitter.com/ottercoinn"
       }
-    }
+    },
+        {
+      "chainId": 101,
+      "address": "EQ8XnCvwZvhdJZZZeJeRv5bYyNTz5vQ4TL9VFxwCPcZc",
+      "symbol": "BBMOON",
+      "name": "Baby Moon",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/mXs1Thg/babymoon.png",
+      "tags": [
+        "community-token"
+      ],
+       "extensions": {
+        "discord": "https://discord.com/invite/uEE9bGxdCf",
+        "twitter": "https://twitter.com/babiesdao"
+      } 
+    },
   ],
   "version": {
     "major": 0,
